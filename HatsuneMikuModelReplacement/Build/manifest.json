@@ -1,0 +1,9 @@
+{
+    "name": SandStar",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "New outside enemy, a SandStar which buries itself in the ground, and loves being in a group",
+    "dependencies": [
+       "BepInEx-BepInExPack-5.4.2100"			
+    ]
+}
